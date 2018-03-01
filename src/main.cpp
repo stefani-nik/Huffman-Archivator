@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "HuffmanCoding.h"
 #include <string>
-#undef UNICODE // Had to undefine the unicode because of the CreateDirectory function?
+#undef UNICODE
 #include <windows.h>
 #include <iostream>
 #include <fstream>
